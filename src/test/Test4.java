@@ -13,6 +13,11 @@ public class Test4 {
 	}
 	
 	@Test
+	public void webLoginHomePage() {
+		System.out.println("Web Login Home Page");
+	}
+	
+	@Test
 	void mobileLoginHome() {
 		System.out.println("Mobile Login Home");
 	}
