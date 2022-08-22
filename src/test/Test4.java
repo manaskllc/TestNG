@@ -16,6 +16,10 @@ public class Test4 {
 	public void webLoginHomePage() {
 		System.out.println("Web Login Home Page");
 	}
+	@Test
+	public void LoginHomePage() {
+		System.out.println(" Login Home Page");
+	}
 	
 	@Test
 	void mobileLoginHome() {
